@@ -15,3 +15,6 @@ export * from './errors'
 export * from './entities'
 export * from './router'
 export * from './fetcher'
+
+import contractAddresses from './contractAddresses.json'
+export { contractAddresses }
