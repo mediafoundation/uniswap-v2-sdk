@@ -8,6 +8,7 @@ export enum ChainId {
   ROPSTEN = 3,
   RINKEBY = 4,
   GÖRLI = 5,
+  GANACHE = 222,
   KOVAN = 42
 }
 
