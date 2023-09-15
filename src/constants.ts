@@ -9,7 +9,6 @@ export enum ChainId {
   RINKEBY = 4,
   GÖRLI = 5,
   LATESTNET = 418,
-  GANACHE = 222,
   KOVAN = 42
 }
 
